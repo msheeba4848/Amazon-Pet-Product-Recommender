@@ -34,3 +34,9 @@ This project illustrates the implementation of two types of recommender systems.
 ## References 
 
 1. https://jmcauley.ucsd.edu/data/amazon/
+
+---
+
+## License
+
+This project is licensed under an **All Rights Reserved** license. Unauthorized use, distribution, or modification of the code is strictly prohibited. For inquiries or permission requests, please contact [sm3924@georgetown.edu or msheeba00@gmail.com].
